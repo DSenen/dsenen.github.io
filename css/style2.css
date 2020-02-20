@@ -1,0 +1,91 @@
+html,
+body {
+	color: #8499B1;
+	font-family: Helvetica, sans-serif;
+	background-image: url(https://wallpapersite.com/images/pages/pic_w/3492.jpg);
+	/*background-color: #A5C4D4;*/
+	background-repeat: repeat-y;
+	background-size: cover;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+
+}
+
+.main {
+	background-color: rgba(89, 83, 98, 0.8);/*#593F62*/
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	border-radius: 20px;
+	border: 5px dashed #8499B1;
+	box-shadow: 0 0 25px 0 rgba(0,0,0,0.75);
+
+}
+
+.contact h1 {
+	font-family: Helvetica;
+	color: red;
+}
+
+h1 {
+	font-family: 'Concert One', cursive;
+	text-align: center;
+	color: #A5C4D4;
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	font-weight: normal;
+}
+
+img {
+	/* Centres the image */
+	display: block;
+	margin: 0 auto;
+	border: 5px solid #36151E; /* also: dashed or dotted */
+	border-radius: 90%;
+	width: 200px;
+	cursor: pointer;
+
+	/* Another way to do it: 
+	display: block;
+	margin-left: auto;
+	margin-right: auto; */	
+}
+
+h3 {
+	background-color: #36151E;
+	color: #A5C4D4;
+	padding: 5px 10px;
+	margin-bottom: 0px;
+	cursor: pointer;
+}
+
+.r1,
+.r2 {
+	text-align: center;
+	padding: 5px 10px;
+}
+
+ol,
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+ul li {
+	display: inline-block;
+}
+
+a {
+	color: #36151E;
+	font-weight: bold;
+	text-decoration: none; 
+}
+
+a:hover {
+	color: #593F62;
+	text-decoration: underline; 
+}
