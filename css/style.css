@@ -17,7 +17,7 @@ header {
 }
 
 .tiledBackground {
-  background-image: url(http://commonwiki.pbworks.com/f/1385402081/portfolio.jpg);
+  background-image: url("../images/portfolio.jpg");
 /*  background-size: cover;*/
   background-repeat: no-repeat;
   width: auto;
