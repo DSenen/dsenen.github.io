@@ -2,7 +2,7 @@ html,
 body {
 	color: #8499B1;
 	font-family: Helvetica, sans-serif;
-	background-image: url(https://wallpapersite.com/images/pages/pic_w/3492.jpg);
+	background-image: url('../images/blue-sky.jpg');
 	/*background-color: #A5C4D4;*/
 	background-repeat: repeat-y;
 	background-size: cover;
